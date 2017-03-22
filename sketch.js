@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-    strokeWeight(4);
+    strokeWeight(4); 
     stroke(255);
     
     var x=0;
